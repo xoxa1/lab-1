@@ -1,6 +1,19 @@
-image{
-    display: block;
-    margin: auto;
-    width: 400px;
-    height: 400px;
-}
+.sect1 {
+    color:brown;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }  
+ #sect2{
+    color: brown;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+ #sect3{
+    color: black;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ footer{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ }
